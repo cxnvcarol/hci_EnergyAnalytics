@@ -1,0 +1,19 @@
+header{
+background: gray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(black, lightgray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(black, lightgray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(black, lightgray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black, lightgray); /* Standard syntax */
+}
+
+.divchart{
+    min-height: 500px;
+    height: 500px;
+
+}
+div.row.text-center
+{
+    margin-bottom: 15px;
+    padding-top: 20px;
+    /*border-bottom: dashed gray 1px;*/
+}
